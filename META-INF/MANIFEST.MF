@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 11
+Specification-Title: LGIF Segmentation Plugin
+Specification-Version: 0.1
+Specification-Vendor: RBNB - Brazilian Network of Neurobiodiversity
+Implementation-Title: LGIF Segmentation Plugin
+Implementation-Version: 0.1.0-SNAPSHOT
+Implementation-Vendor: RBNB - Brazilian Network of Neurobiodiversity
+Package: org.rbnb.lgif_segmentation
+Automatic-Module-Name: org.rbnb.lgif_segmentation
+Implementation-Build: UNKNOWN
+Implementation-Date: 2025-11-22T14:21:07+0000
+Premain-Class: 
+
